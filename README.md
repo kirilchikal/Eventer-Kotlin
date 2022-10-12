@@ -19,7 +19,7 @@ The Web version of application is another [project]() written with React & ASP.N
 
 ### Screen examples
 
-<img src="https://user-images.githubusercontent.com/48454522/195439865-f97c7776-f3c4-41a6-8e9b-704a028d7c9a.jpg" width=220/>   <img src="https://user-images.githubusercontent.com/48454522/195440066-ce0400ff-4a39-4480-a4fd-3cb2a192c3f7.jpg width=220/>   <img src="https://user-images.githubusercontent.com/48454522/195440145-a882cb5b-7b2f-497e-ae0c-a4ee35626f3f.jpg width=220/>
+<img src="https://user-images.githubusercontent.com/48454522/195439865-f97c7776-f3c4-41a6-8e9b-704a028d7c9a.jpg" width=220/>   <img src="https://user-images.githubusercontent.com/48454522/195440066-ce0400ff-4a39-4480-a4fd-3cb2a192c3f7.jpg" width=220/>   <img src="https://user-images.githubusercontent.com/48454522/195440145-a882cb5b-7b2f-497e-ae0c-a4ee35626f3f.jpg" width=220/>
 
 
 ### Download a Xd template [here](https://github.com/kirilchikal/Eventer-Kotlin/blob/master/design/Eventer.xd)
