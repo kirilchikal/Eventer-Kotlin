@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_friends"
+            android:title="My friends"
+            android:icon="@drawable/ic_friends"/>
+
+        <item
+            android:id="@+id/nav_find_friends"
+            android:title="Find friends"
+            android:icon="@drawable/ic_search"/>
+
+        <item
+            android:id="@+id/nav_edit_profile"
+            android:title="Edit profile"
+            android:icon="@drawable/ic_edit"/>
+
+        <item
+            android:id="@+id/nav_change_password"
+            android:title="Change password"
+            android:icon="@drawable/ic_lock"/>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Log out"
+            android:icon="@drawable/ic_logout"/>
+    </group>
+</menu>

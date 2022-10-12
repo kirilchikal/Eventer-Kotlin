@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Eventer</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="full_name">Full name</string>
+    <string name="retype_password">Retype password</string>
+
+    <string name="chats">Chats</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="change_profile">Change profile image</string>
+    <string name="change_password">Change password</string>
+    <string name="delete_friend_btn">DELETE</string>
+    <string name="add_friend_btn">ADD</string>
+    <string name="my_frinds">My friends</string>
+
+    <string name="action_create_event">Create a new event</string>
+    <string name="title">Title</string>
+    <string name="place">Place</string>
+    <string name="date">Date</string>
+    <string name="action_add_members">ADD MEMBERS</string>
+    <string name="action_create">CREATE</string>
+    <string name="action_members">0 members selected</string>
+
+    <string name="add_members">Add members</string>
+    <string name="no_events">You do not have any events</string>
+    <string name="no_invitations">You do not have invitations yet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
